@@ -1,4 +1,5 @@
 # RoboYang2020
+![Onion Terminator Yang](./OnionTerminatorYang.jpg "Onion Terminator Yang")
 
 RoboYang is here to automate Andrew Yang. By answering questions in his own words.
 
@@ -19,5 +20,3 @@ Some todo items:
 {} Figure out how to get this site to go [VIRAL](./GoViral.md)
 
 {} SECURE THE BAG!
-
-![Onion Terminator Yang](./OnionTerminatorYang.jpg "Onion Terminator Yang")
