@@ -20,3 +20,5 @@ Some todo items:
 {} Figure out how to get this site to go [VIRAL](./GoViral.md)
 
 {} SECURE THE BAG!
+
+Special thanks to https://github.com/matthewlee626 for getting the domain and hosting this at http://roboyang2020.com
